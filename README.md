@@ -14,3 +14,4 @@ Below is a summary of the projects:
 
 I am incredibly grateful for the opportunity provided by Codsoft. This experience has been instrumental in enhancing my skills, and I look forward to applying what I have learned to further my expertise in machine learning and data science."# CODSOFT" 
 "# CODSOFT" 
+"# codsoft_intern" 
